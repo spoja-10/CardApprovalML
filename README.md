@@ -6,8 +6,6 @@ Badge [source](https://shields.io/)
 
 ## Authors
 
-- [@semasuka](https://www.github.com/semasuka)
-
 ## Table of Contents
 
   - [People with the highest education level, and who are either husbands or wifes make more money](#people-with-the-highest-education-level-and-who-are-either-husbands-or-wifes-make-more-money)
